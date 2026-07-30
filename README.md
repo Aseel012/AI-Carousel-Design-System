@@ -1,55 +1,188 @@
-# 🎨 AI Carousel Design System
+# AI Carousel Design System
 
-A comprehensive repository for AI models (Claude, ChatGPT, etc.) to generate professional, trending social media carousels with perfect design consistency.
+Stop generating AI carousels that look like AI.
 
-## 🚀 Quick Start for AI Models
+Most AI-generated carousel posts suffer from the same problems:
 
-When a user shares this repository link, understand:
+* Poor typography
+* Inconsistent spacing
+* Random color palettes
+* Weak visual hierarchy
+* Generic layouts
+* Slides that instantly feel "AI-made"
 
-1. **DESIGN_PRINCIPLES.md** - Core visual rules and constraints
-2. **PROMPT_LIBRARY.md** - Pre-tested image generation prompts
-3. **templates/html/** - Ready-to-use HTML structures
-4. **references/** - Color palettes, typography, character refs
+This project exists to solve that.
 
-## 📋 Usage Instructions
+Instead of treating carousel generation as an image generation problem, this repository treats it as a **design system**.
 
-### For Image Generation (DALL-E, Midjourney, etc.):
-- Use prompts from `/prompts/image-generation/`
-- Reference character sheets from `/references/character-refs/`
-- Apply color palettes from `/references/color-palettes.json`
+The goal is simple:
 
-### For HTML Generation (Claude, etc.):
-- Start with templates in `/templates/html/`
-- Use CSS variables from `/templates/css/variables.css`
-- Follow component patterns in `/templates/css/components.css`
+> Generate carousel posts that look like they were crafted by a professional designer—not by an AI model.
 
-## 🎯 Supported Niches
-- Tech Startups
-- Wellness & Lifestyle
-- Finance & Business Coaching
-- Creative Agencies
-- E-commerce
-- Personal Branding
+---
 
-## 📐 Standard Dimensions
-- Instagram: 1080 x 1350px (4:5)
-- LinkedIn: 1080 x 1920px (9:16) or 1080 x 1080px (1:1)
-- Twitter/X: 1600 x 900px (16:9)
+## What is this?
 
-## 📦 How to Use This Repository
+AI Carousel Design System is a collection of structured prompts, reusable layouts, typography rules, spacing systems, color guidelines, and HTML-based templates that help AI models generate visually consistent carousel designs.
 
-1. Create a new GitHub repo with these files
-2. Share the repo URL with Claude/ChatGPT when requesting carousels
-3. AI will understand:
-   - Which design principles to follow
-   - Which prompts to use for images
-   - Which HTML templates to start from
-   - Which colors/typography fit your niche
+Rather than relying on luck, the system gives AI a clear set of design constraints.
 
-### Example AI Prompt:
+---
+
+## Design Principles
+
+Every generated carousel follows the same core philosophy.
+
+### Typography First
+
+Readable typography always wins over decorative effects.
+
+* Clear information hierarchy
+* Consistent font scaling
+* Comfortable line lengths
+* Balanced whitespace
+
+---
+
+### Layout Consistency
+
+Each slide follows predictable composition rules.
+
+* Structured grids
+* Balanced alignment
+* Intentional spacing
+* Consistent margins
+* Reusable content sections
+
+---
+
+### Minimal Visual Noise
+
+Every element must have a purpose.
+
+No random icons.
+
+No unnecessary gradients.
+
+No decorative clutter.
+
+---
+
+### Content Before Decoration
+
+The message should be understandable before colors, shadows, or illustrations are added.
+
+Good design amplifies content—it never hides it.
+
+---
+
+## Features
+
+* HTML-first carousel generation
+* AI-optimized prompt library
+* Reusable layout templates
+* Typography guidelines
+* Color system references
+* Design constraints for LLMs
+* Modular slide structure
+* Consistent spacing rules
+* Component-based layouts
+* Easy customization
+
+---
+
+## Repository Structure
+
+```text
+AI-Carousel-Design-System/
+│
+├── prompts/
+│   ├── generation
+│   ├── refinement
+│   └── layout
+│
+├── templates/
+│   ├── linkedin
+│   ├── instagram
+│   └── educational
+│
+├── references/
+│   ├── typography
+│   ├── colors
+│   └── layouts
+│
+├── docs/
+│
+└── examples/
 ```
-Using the design system at https://github.com/YOUR_USERNAME/ai-carousel-design-system,
-create a 5-slide Instagram carousel for my fitness coaching business.
-Use the wellness-sage color palette and modern-clean typography.
-Generate image prompts for each slide and create the HTML template.
+
+---
+
+## Why HTML Instead of Images?
+
+Traditional workflow
+
 ```
+Prompt
+   ↓
+AI Image
+   ↓
+Hope it looks good
+```
+
+This project
+
+```
+Prompt
+   ↓
+Structured Design Rules
+   ↓
+HTML Layout
+   ↓
+Professional Carousel
+```
+
+HTML allows predictable layouts, reusable components, editable content, and significantly better design consistency.
+
+---
+
+## Current Goals
+
+* Build a reusable carousel design language
+* Improve AI-generated layout quality
+* Reduce inconsistent outputs
+* Create production-ready carousel templates
+* Make AI-generated content feel human-designed
+
+---
+
+## Roadmap
+
+* [ ] Add showcase gallery
+* [ ] More layout templates
+* [ ] Theme variations
+* [ ] Export utilities
+* [ ] Animation support
+* [ ] Accessibility improvements
+* [ ] Component library
+* [ ] Benchmark against leading AI design tools
+
+---
+
+## Contributing
+
+Ideas, improvements, new templates, prompt refinements, and design suggestions are always welcome.
+
+If you have a layout that improves readability or visual consistency, feel free to open a pull request.
+
+---
+
+## Vision
+
+The future of AI design isn't about generating prettier images.
+
+It's about teaching AI how good design works.
+
+This project aims to become an open design system that helps language models create carousel posts with the consistency, readability, and visual quality expected from modern product design.
+
+If this project helps you create better content, consider giving it a ⭐.

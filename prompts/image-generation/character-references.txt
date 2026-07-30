@@ -1,0 +1,24 @@
+# Character Reference Sheet Prompts
+
+Use these to generate a consistent character across all carousel slides. Always generate front, 3/4, and profile views in one reference pass, then reuse the same descriptive block for every subsequent slide prompt.
+
+## Core Reference Block Template
+[ROLE/PROFESSION] character, [AGE] years old, [ETHNICITY], [BODY TYPE], [HAIR STYLE/COLOR], [DISTINCTIVE FEATURES], wearing [OUTFIT DESCRIPTION], [EXPRESSION], clean neutral background, consistent facial features across all angles, professional character reference sheet, front view + 3/4 view + side profile, soft studio lighting, sharp focus, 8k resolution, no text
+
+## Professional Woman (Business)
+Professional woman, [AGE] years old, [ETHNICITY], wearing [OUTFIT], confident pose, friendly smile, clean white background, high quality portrait, consistent facial features, professional headshot style, soft studio lighting, sharp focus on face, 8k resolution, character reference sheet, front view, 3/4 view, side profile
+
+## Professional Man (Business)
+Professional man, [AGE] years old, [ETHNICITY], wearing [OUTFIT], confident stance, approachable expression, clean neutral background, professional headshot style, soft studio lighting, consistent facial features, 8k resolution, character reference sheet, front view, 3/4 view, side profile
+
+## Casual Creative (Lifestyle)
+Young creative professional, [AGE] years old, [ETHNICITY], casual trendy outfit, natural pose, authentic expression, lifestyle photography style, [LOCATION] background, golden hour lighting, candid moment, high quality, consistent character across angles, front and side views, 8k
+
+## Wellness / Fitness Coach
+Wellness coach, [AGE] years old, [ETHNICITY], athletic build, activewear in [COLOR], calm confident expression, soft natural light, minimal outdoor or studio background, consistent character reference, front and side views, 8k, no text
+
+## Notes on Consistency
+- Keep lighting direction identical across all generated slides
+- Reuse the exact same descriptive phrase set (don't paraphrase between slides)
+- Document skin tone, hair color/style, and any distinguishing features explicitly
+- Store the finalized reference block in `references/character-refs/` for reuse across projects

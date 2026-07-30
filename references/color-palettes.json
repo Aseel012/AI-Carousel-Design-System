@@ -1,0 +1,92 @@
+{
+  "palettes": {
+    "modern-minimal": {
+      "name": "Modern Minimal",
+      "primary": "#6366f1",
+      "secondary": "#8b5cf6",
+      "accent": "#f472b6",
+      "background": "#ffffff",
+      "surface": "#f8fafc",
+      "textPrimary": "#1e293b",
+      "textSecondary": "#64748b"
+    },
+    "coral-dream": {
+      "name": "Coral Dream",
+      "primary": "#ff6b6b",
+      "secondary": "#feca57",
+      "accent": "#ff9ff3",
+      "background": "#fff5f5",
+      "surface": "#ffffff",
+      "textPrimary": "#2d3436",
+      "textSecondary": "#636e72"
+    },
+    "ocean-professional": {
+      "name": "Ocean Professional",
+      "primary": "#0984e3",
+      "secondary": "#00b894",
+      "accent": "#fdcb6e",
+      "background": "#ffffff",
+      "surface": "#f1f2f6",
+      "textPrimary": "#2f3542",
+      "textSecondary": "#57606f"
+    },
+    "dark-tech": {
+      "name": "Dark Tech",
+      "primary": "#a29bfe",
+      "secondary": "#74b9ff",
+      "accent": "#00cec9",
+      "background": "#2d3436",
+      "surface": "#636e72",
+      "textPrimary": "#dfe6e9",
+      "textSecondary": "#b2bec3"
+    },
+    "wellness-sage": {
+      "name": "Wellness Sage",
+      "primary": "#55efc4",
+      "secondary": "#81ecec",
+      "accent": "#ffeaa7",
+      "background": "#fdfbf7",
+      "surface": "#ffffff",
+      "textPrimary": "#2d3436",
+      "textSecondary": "#636e72"
+    },
+    "luxury-gold": {
+      "name": "Luxury Gold",
+      "primary": "#1a1a2e",
+      "secondary": "#16213e",
+      "accent": "#e94560",
+      "background": "#0f3460",
+      "surface": "#16213e",
+      "textPrimary": "#eaeaea",
+      "textSecondary": "#a0a0a0"
+    },
+    "sunset-vibes": {
+      "name": "Sunset Vibes",
+      "primary": "#e17055",
+      "secondary": "#fdcb6e",
+      "accent": "#d63031",
+      "background": "#fff9f0",
+      "surface": "#ffffff",
+      "textPrimary": "#2d3436",
+      "textSecondary": "#636e72"
+    },
+    "forest-nature": {
+      "name": "Forest Nature",
+      "primary": "#00b894",
+      "secondary": "#55efc4",
+      "accent": "#fd79a8",
+      "background": "#f0f7f4",
+      "surface": "#ffffff",
+      "textPrimary": "#2d3436",
+      "textSecondary": "#636e72"
+    }
+  },
+  "gradients": {
+    "purple-dream": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+    "sunset-glow": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+    "ocean-wave": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+    "golden-hour": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+    "midnight": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)",
+    "fresh-morning": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)"
+  }
+}

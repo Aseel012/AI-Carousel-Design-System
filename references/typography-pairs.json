@@ -1,0 +1,92 @@
+{
+  "pairs": {
+    "modern-clean": {
+      "name": "Modern Clean",
+      "heading": {
+        "font": "Inter",
+        "weights": [700, 800],
+        "fallback": "system-ui, sans-serif"
+      },
+      "body": {
+        "font": "Inter",
+        "weights": [400, 500],
+        "fallback": "system-ui, sans-serif"
+      },
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap');"
+    },
+    "editorial-elegant": {
+      "name": "Editorial Elegant",
+      "heading": {
+        "font": "Playfair Display",
+        "weights": [700],
+        "fallback": "Georgia, serif"
+      },
+      "body": {
+        "font": "Source Sans 3",
+        "weights": [400, 600],
+        "fallback": "system-ui, sans-serif"
+      },
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Source+Sans+3:wght@400;600&display=swap');"
+    },
+    "tech-modern": {
+      "name": "Tech Modern",
+      "heading": {
+        "font": "Space Grotesk",
+        "weights": [700],
+        "fallback": "system-ui, sans-serif"
+      },
+      "body": {
+        "font": "IBM Plex Sans",
+        "weights": [400, 500],
+        "fallback": "system-ui, sans-serif"
+      },
+      "import": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&family=Space+Grotesk:wght@700&display=swap');"
+    },
+    "friendly-rounded": {
+      "name": "Friendly Rounded",
+      "heading": {
+        "font": "Poppins",
+        "weights": [700, 800],
+        "fallback": "system-ui, sans-serif"
+      },
+      "body": {
+        "font": "Nunito",
+        "weights": [400, 600],
+        "fallback": "system-ui, sans-serif"
+      },
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&family=Poppins:wght@700;800&display=swap');"
+    },
+    "corporate-trust": {
+      "name": "Corporate Trust",
+      "heading": {
+        "font": "Montserrat",
+        "weights": [700, 800],
+        "fallback": "system-ui, sans-serif"
+      },
+      "body": {
+        "font": "Open Sans",
+        "weights": [400, 600],
+        "fallback": "system-ui, sans-serif"
+      },
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Open+Sans:wght@400;600&display=swap');"
+    }
+  },
+  "scales": {
+    "instagram": {
+      "h1": "64px",
+      "h2": "48px",
+      "h3": "32px",
+      "body": "24px",
+      "caption": "18px",
+      "small": "14px"
+    },
+    "linkedin": {
+      "h1": "56px",
+      "h2": "42px",
+      "h3": "28px",
+      "body": "20px",
+      "caption": "16px",
+      "small": "12px"
+    }
+  }
+}

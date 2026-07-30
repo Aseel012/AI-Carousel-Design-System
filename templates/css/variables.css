@@ -1,0 +1,39 @@
+/* AI Carousel Design System — Shared CSS Variables
+   Swap the values in :root with any palette from references/color-palettes.json
+   and any typography pairing from references/typography-pairs.json */
+
+:root {
+  /* Colors - Default: Modern Minimal palette */
+  --primary: #6366f1;
+  --secondary: #8b5cf6;
+  --accent: #f472b6;
+  --background: #ffffff;
+  --surface: #f8fafc;
+  --text-primary: #1e293b;
+  --text-secondary: #64748b;
+
+  /* Typography */
+  --font-heading: 'Inter', -apple-system, sans-serif;
+  --font-body: 'Inter', -apple-system, sans-serif;
+
+  /* Spacing (8px base unit) */
+  --space-xs: 8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 32px;
+  --space-xl: 48px;
+
+  /* Slide dimensions */
+  --slide-width: 1080px;
+  --slide-height: 1350px; /* Instagram 4:5. Use 1080px for LinkedIn square, 1920px for LinkedIn portrait, 900px w/ 1600px width for Twitter/X */
+
+  /* Border radius */
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 4px 20px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}

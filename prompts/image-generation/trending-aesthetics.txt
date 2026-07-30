@@ -1,0 +1,27 @@
+# Trending Aesthetic Prompt Snippets
+
+Append or blend these style snippets into base prompts from instagram-carousel.txt or linkedin-carousel.txt.
+
+## Glassmorphism
+frosted glass panels, soft blur backdrop, translucent layered cards, subtle white borders, soft ambient lighting, modern UI aesthetic
+
+## Neo-Brutalism
+bold thick black outlines, flat high-contrast color blocks, raw unpolished layout, oversized geometric shapes, high energy composition
+
+## Soft Gradient / Aura
+multi-stop pastel gradient background, soft blurred aura glow behind subject, dreamy atmosphere, gentle color transitions
+
+## Isometric Tech
+isometric 3D illustration style, floating UI panels, abstract tech iconography, clean geometric perspective, soft ambient shadows
+
+## Editorial Minimalism
+large serif typography placeholder space, generous negative space, muted neutral tones, magazine-style layout, refined and elegant
+
+## Dark Mode Tech
+deep charcoal or near-black background, single neon accent color glow, monospace/geometric sans placeholders, futuristic clean tech aesthetic
+
+## Y2K Revival
+chrome and metallic textures, holographic gradient accents, playful bubble shapes, nostalgic early-2000s digital aesthetic
+
+## Usage Tip
+Pick one aesthetic per carousel and apply it consistently across all slides for visual cohesion — mixing multiple aesthetics in one carousel breaks consistency.

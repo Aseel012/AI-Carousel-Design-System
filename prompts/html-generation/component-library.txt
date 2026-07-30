@@ -1,0 +1,69 @@
+# Reusable HTML/CSS Component Patterns
+
+Reference these snippets when assembling custom carousel slides. All components use the CSS variables defined in `templates/css/variables.css`.
+
+## Content Card
+```html
+<div class="content-card">
+  <h3>Title</h3>
+  <p>Description text.</p>
+</div>
+```
+```css
+.content-card {
+  background: white;
+  border-radius: 24px;
+  padding: var(--space-lg);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+```
+
+## Numbered Bullet Item
+```html
+<div class="bullet-item">
+  <div class="bullet-number">1</div>
+  <div class="bullet-text">
+    <h3>Step Title</h3>
+    <p>Step description</p>
+  </div>
+</div>
+```
+
+## CTA Button
+```html
+<a href="#" class="cta-button">Get Started →</a>
+```
+```css
+.cta-button {
+  background: white;
+  color: var(--primary);
+  padding: var(--space-md) var(--space-xl);
+  border-radius: 50px;
+  font-weight: 700;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+}
+```
+
+## Glass Panel (Glassmorphism)
+```css
+.glass-panel {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+}
+```
+
+## Slide Number Tag
+```html
+<span class="slide-number">1/5</span>
+```
+```css
+.slide-number {
+  position: absolute;
+  bottom: var(--space-md);
+  right: var(--space-md);
+  font-size: 16px;
+  opacity: 0.5;
+}
+```

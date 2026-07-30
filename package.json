@@ -1,0 +1,25 @@
+{
+  "name": "ai-carousel-design-system",
+  "version": "1.0.0",
+  "description": "Comprehensive design system for AI-generated social media carousels",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node scripts/generate-carousel.js",
+    "validate": "node scripts/validate-design.js"
+  },
+  "keywords": [
+    "ai",
+    "carousel",
+    "design-system",
+    "social-media",
+    "instagram",
+    "linkedin",
+    "templates"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/ai-carousel-design-system.git"
+  }
+}

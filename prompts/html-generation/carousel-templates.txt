@@ -1,0 +1,21 @@
+# HTML Carousel Generation Instructions (for AI models)
+
+When asked to generate an HTML carousel:
+
+1. Start from `templates/html/base-carousel.html` (or the niche-specific variant in the same folder).
+2. Swap CSS variables in `:root` using a palette from `references/color-palettes.json`.
+3. Swap the font-family variables using a pairing from `references/typography-pairs.json`.
+4. Replace bracketed placeholders (e.g. `[NICHE]`, `[PAIN_POINT]`, `[RESULT]`) with real copy.
+5. Keep each `.slide` at 1080x1350px (Instagram) unless the user requests LinkedIn (1080x1080px or 1080x1920px) or Twitter/X (1600x900px) dimensions.
+6. Preserve the 5-slide structure (Hook → Problem/Solution → Visual+Explanation → Key Points → CTA) unless the user asks for a different slide count.
+7. Keep all styling in a single `<style>` block (or inline) — no external stylesheet dependencies except Google Fonts imports.
+
+## Slide-count variants
+- 3 slides: Hook → Key Points → CTA
+- 7-10 slides: Hook → Problem → 3-5 content slides → Proof → CTA
+
+## Output checklist
+- [ ] Contrast ratio ≥ 4.5:1 for all text
+- [ ] Slide numbers included (e.g. "2/5")
+- [ ] Responsive scaling rule included for preview at smaller viewport widths
+- [ ] No placeholder brackets left unfilled in final output

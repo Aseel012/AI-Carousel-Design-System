@@ -1,0 +1,28 @@
+# LinkedIn Carousel Image Generation Prompts
+
+## Standard Format (1080x1080px or 1080x1920px)
+
+### Base Template
+[SUBJECT], corporate professional aesthetic, [COLOR_SCHEME], structured grid composition, LinkedIn optimized, 1080x1080px or 1080x1920px, high quality, sharp focus, trustworthy premium finish, no text, no watermarks, 8k resolution
+
+## Examples by Purpose
+
+### Thought Leadership
+"Professional thought-leadership carousel slide, navy and white color scheme, confident business setting, clean data visualization placeholders, premium editorial aesthetic, 1080x1080px, LinkedIn optimized, no text, 8k"
+
+### Case Study / Results
+"Business case study carousel background, clean chart and graph placeholders, corporate blue and gold accents, structured layout, professional finish, 1080x1080px, no text, high quality, 8k"
+
+### Hiring / Team Culture
+"Modern workplace culture carousel, diverse professional team setting, warm approachable office environment, clean corporate palette, 1080x1080px, no text, professional photography style, 8k"
+
+### B2B Product Explainer
+"B2B SaaS explainer carousel slide, isometric dashboard mockup placeholders, blue-to-purple gradient, clean UI elements, professional tech aesthetic, 1080x1080px, no text, 8k"
+
+## Character Integration
+
+### Executive Headshot Style
+"Confident executive, [AGE], [ETHNICITY], business formal attire, clean neutral background, professional studio lighting, consistent character reference sheet, front view, 3/4 view, profile, 1080x1080px, no text, 8k"
+
+### Team / Collaboration Shot
+"Small professional team collaborating around a table, modern office, natural lighting, candid but polished, [COLOR_ACCENT] branding elements, 1080x1080px, no text, 8k"

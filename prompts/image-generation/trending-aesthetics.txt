@@ -2,6 +2,7 @@
 
 Append or blend these style snippets into base prompts from instagram-carousel.txt or linkedin-carousel.txt.
 
+
 ## Glassmorphism
 frosted glass panels, soft blur backdrop, translucent layered cards, subtle white borders, soft ambient lighting, modern UI aesthetic
 

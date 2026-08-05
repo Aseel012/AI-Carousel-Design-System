@@ -7,6 +7,7 @@
 - H2 (Subheading): 32-40px, Semi-bold
 - Body: 18-24px, Regular
 - Caption: 14-16px, Light
+- 
 
 ### Spacing System
 - Base unit: 8px

@@ -10,6 +10,7 @@
  *  - basic contrast sanity check (very rough heuristic)
  */
 
+
 const fs = require('fs');
 const path = require('path');
 

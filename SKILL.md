@@ -5,7 +5,7 @@ Generate professional social media carousels using trending design principles, c
 
 ## Installation
 ```bash
-npx skills add https://github.com/YOUR_USERNAME/ai-carousel-design-system
+npx skills add https://github.com/Aseel012/ai-carousel-design-system
 ```
 ## Capabilities
 - Generate image prompts for carousel slides

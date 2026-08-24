@@ -7,14 +7,12 @@ Generate professional social media carousels using trending design principles, c
 ```bash
 npx skills add https://github.com/YOUR_USERNAME/ai-carousel-design-system
 ```
-
 ## Capabilities
 - Generate image prompts for carousel slides
 - Create HTML/CSS carousel templates
 - Provide character reference sheets
 - Apply trending design aesthetics
 - Validate design consistency
-
 
 ## Usage Examples
 

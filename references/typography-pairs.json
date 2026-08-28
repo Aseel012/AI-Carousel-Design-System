@@ -36,8 +36,8 @@
         "fallback": "system-ui, sans-serif"
       },
       "body": {
-        "font": "IBM Plex Sans",
         "weights": [400, 500],
+        "font": "IBM Plex Sans",
         "fallback": "system-ui, sans-serif"
       },
       "import": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&family=Space+Grotesk:wght@700&display=swap');"

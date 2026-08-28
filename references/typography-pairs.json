@@ -4,8 +4,8 @@
       "name": "Modern Clean",
       "heading": {
         "font": "Inter",
-        "weights": [700, 800],
         "fallback": "system-ui, sans-serif"
+        "weights": [700, 800],
       },
       "body": {
         "font": "Inter",

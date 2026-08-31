@@ -10,8 +10,9 @@
 .slide {
   width: var(--slide-width);
   height: var(--slide-height);
-  background: var(--background);
+   
   position: relative;
+  background: var(--background);
   overflow: hidden;
   box-shadow: var(--shadow-lg);
   font-family: var(--font-body);

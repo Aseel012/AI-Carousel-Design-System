@@ -28,8 +28,8 @@
   --slide-height: 1350px; /* Instagram 4:5. Use 1080px for LinkedIn square, 1920px for LinkedIn portrait, 900px w/ 1600px width for Twitter/X */
 
   /* Border radius */
-  --radius-sm: 8px;
   --radius-md: 16px;
+  --radius-sm: 8px;
   --radius-lg: 24px;
   --radius-full: 9999px;
 

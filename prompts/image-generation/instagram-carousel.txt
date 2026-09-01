@@ -13,11 +13,11 @@
 ### Personal Branding
 "Professional personal branding carousel slide, warm and approachable aesthetic, coral and peach gradient background, centered composition with space for text overlay, modern minimalist design, 1080x1350px, Instagram optimized, high quality, no text in image, 8k"
 
+### Motivational/Quotes
+"Inspirational quote carousel background, abstract artistic texture, [COLOR_THEME] gradient, cinematic lighting, moody and atmospheric, space for text overlay, 1080x1350px, Instagram trending style, high quality, no text, 8k"
 ### Educational/How-To
 "Educational infographic carousel slide, clean layout with icon placeholders, [COLOR1] and [COLOR2] color scheme, organized grid layout, modern flat design style, 1080x1350px, easy to read visual hierarchy, professional, no text, 8k"
 
-### Motivational/Quotes
-"Inspirational quote carousel background, abstract artistic texture, [COLOR_THEME] gradient, cinematic lighting, moody and atmospheric, space for text overlay, 1080x1350px, Instagram trending style, high quality, no text, 8k"
 
 ## Character Integration
 

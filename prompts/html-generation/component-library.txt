@@ -11,8 +11,9 @@ Reference these snippets when assembling custom carousel slides. All components 
 ```
 ```css
 .content-card {
-  background: white;
+
   border-radius: 24px;
+  background: white;
   padding: var(--space-lg);
   box-shadow: 0 4px 20px rgba(0,0,0,0.08);
 }

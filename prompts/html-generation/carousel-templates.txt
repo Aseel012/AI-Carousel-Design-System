@@ -11,7 +11,7 @@ When asked to generate an HTML carousel:
 7. Keep all styling in a single `<style>` block (or inline) — no external stylesheet dependencies except Google Fonts imports.
 
 ## Slide-count variants
-- 3 slides: Hook → Key Points → CTA
+- 5 slides: Hook → Key Points → CTA
 - 7-10 slides: Hook → Problem → 3-5 content slides → Proof → CTA
 
 ## Output checklist

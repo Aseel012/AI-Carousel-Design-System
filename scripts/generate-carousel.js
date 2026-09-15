@@ -1,7 +1,4 @@
-/**
- * AI Carousel Generator Script
- * Usage: node generate-carousel.js --niche=tech --slides=5 --theme=dark
- */
+
 const fs = require('fs');
 const path = require('path');
 
